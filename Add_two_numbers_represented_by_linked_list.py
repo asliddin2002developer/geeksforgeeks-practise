@@ -29,11 +29,9 @@ class Solution:
             lis2.append(second_ll.data)
             second_ll = second_ll.next
 
-        for i in lis1:
-            str1 += str(i)
+        str1 = ''.join(map(str, lis1))
 
-        for i in lis2:
-            str2 += str(i)
+        str2 = ''.join(map(str, lis2))
 
         sum_num = int(str1) + int(str2)
 
