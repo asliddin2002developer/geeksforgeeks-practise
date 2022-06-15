@@ -1,6 +1,6 @@
 class Solution:
     ##Complete this function
-    #Function to find the sum of contiguous subarray with maximum sum.
+    ##Function to find the sum of contiguous subarray with maximum sum.
 
     def maxSubArraySum(self,arr,N):
         ##Your code here
