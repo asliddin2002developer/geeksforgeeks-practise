@@ -11,6 +11,8 @@ class LinkedList:
 This is method only submission.
  You only need to complete below method.
 """
+
+''' My solution '''
 def getNth(head, k):
     # Code here
     cur = head
