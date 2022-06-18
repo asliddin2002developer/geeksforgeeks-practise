@@ -23,7 +23,7 @@ class Solution:
 
 
 
-        '''Aproach 2'''
+        """ Aproach 2 """
 
         tree1 = []
         tree2 = []
