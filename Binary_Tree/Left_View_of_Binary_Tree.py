@@ -1,5 +1,4 @@
 '''
-# Node Class:
 class Node:
     def _init_(self,val):
         self.data = val
